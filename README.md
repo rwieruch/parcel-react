@@ -4,7 +4,7 @@ A minimal React.js boilerplate with [parcel as bundler](https://github.com/parce
 
 ## Installation
 
-`git clone git@github.com:rwieruch/parcel-react.git`
-`cd parcel-react`
-`npm install`
-`npm startl`
+* `git clone git@github.com:rwieruch/parcel-react.git`
+* `cd parcel-react`
+* `npm install`
+* `npm startl`
