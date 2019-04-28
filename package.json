@@ -4,7 +4,7 @@
   "description": "A minimal React.js boilerplate with parcel as bundler",
   "main": "index.js",
   "scripts": {
-    "start": "parcel ./src/index.html"
+    "start": "parcel ./src/index.html --open"
   },
   "keywords": [
     "parcel",
